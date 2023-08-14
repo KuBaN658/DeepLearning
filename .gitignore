@@ -1,0 +1,17 @@
+hw/.ipynb_checkpoints
+hw/README.md
+hw/data/
+sem/sem01/.ipynb_checkpoints/
+sem/sem01/mnist/
+sem/sem01/wandb/
+sem/sem02/.ipynb_checkpoints/
+sem/sem02/mnist/
+sem/sem02/sem02_solution.ipynb
+sem/sem02/static/
+sem/sem03/.ipynb_checkpoints/
+sem/sem03/__pycache__/
+sem/sem03/cifar/
+sem/sem03/filter_viz.py
+sem/sem03/myimage.png
+sem/sem03/sem03_solution.ipynb
+sem/sem03/static/
