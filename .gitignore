@@ -15,3 +15,6 @@ sem/sem03/filter_viz.py
 sem/sem03/myimage.png
 sem/sem03/sem03_solution.ipynb
 sem/sem03/static/
+sem/sem04/.ipynb_checkpoints/
+sem/sem04/data/FashionMNIST/
+sem/sem04/lightning_logs/
