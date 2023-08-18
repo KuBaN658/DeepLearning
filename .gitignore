@@ -18,3 +18,6 @@ sem/sem03/static/
 sem/sem04/.ipynb_checkpoints/
 sem/sem04/data/FashionMNIST/
 sem/sem04/lightning_logs/
+sem/sem05/lightning_logs/
+*.ipynb_checkpoints/
+sem/sem05/PetImages/
