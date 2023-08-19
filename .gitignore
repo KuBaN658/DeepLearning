@@ -21,3 +21,6 @@ sem/sem04/lightning_logs/
 sem/sem05/lightning_logs/
 *.ipynb_checkpoints/
 sem/sem05/PetImages/
+hw/data/
+hw/lightning_logs/
+hw/wandb/
